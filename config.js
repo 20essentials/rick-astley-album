@@ -1,0 +1,23 @@
+export const nameBand = 'RICK ASTLEY';
+export const nameSongs = [
+	"NEVER GONNA GIVE YOU", /*1*/
+	"TOGETHER FOREVER", /*2*/
+	"TAKE ME TO YOUR HEART", /*3*/
+	"CRY FOR HELP", /*4*/
+	"SHE WANTS TO DANCE WITH ME", /*5*/
+	"WHENEVER YOU NEED SOMEBODY", /*6*/
+	"HOLD ME IN YOUR ARMS", /*7*/
+	"ANGELS ON MY SIDE", /*8*/
+	"KEEP SINGING", /*9*/
+	"EVERLONG", /*10*/
+	"BEAUTIFUL LIFE", /*11*/
+	"DANCE", /*12*/
+	"GIVING UP ON LOVE", /*13*/
+	"TITANIUM (COVER)", /*14*/
+	"EVERY ONE OF US", /*15*/
+	"HOPELESSLY", /*16*/
+	"IT WOULD TAKE A STRONG STRONG MAN", /*17*/
+	"TRY", /*18*/
+	"DON'T SAY GOODBYE", /*19*/
+	"MY GIRL", /*20*/
+]
